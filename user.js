@@ -23,6 +23,7 @@ user_pref("browser.firefox-view.virtual-list.enabled", false);
 user_pref("services.sync.prefs.sync.browser.firefox-view.feature-tour", false);
 user_pref("services.sync.prefs.sync.browser.newtabpage.activity-stream.showSponsored", false);
 user_pref("browser.aboutwelcome.enabled", false);
+user_pref("extensions.pocket.enabled", false);
 
 // hey mozilla, don't steal features from chrome!
 user_pref("browser.tabs.groups.enabled", false);
@@ -47,4 +48,5 @@ user_pref("geo.enabled", false);
 // FREEDOM
 user_pref("xpinstall.signatures.required", false);
 user_pref("xpinstall.whitelist.required", false);
+
 user_pref("browser.aboutConfig.showWarning", false);
